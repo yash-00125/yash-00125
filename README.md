@@ -41,7 +41,7 @@ I love understanding how software runs under the hood—from writing clean scrip
 ### 🏆 Competitive Coding & Badges
 
 <p align="left">
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/nagaryashkumar" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="45" height="45" />
   </a>
 </p>
@@ -61,7 +61,7 @@ I love understanding how software runs under the hood—from writing clean scrip
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter/X" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/nagaryashkumar" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="42" height="42" />
   </a>
 </p>
