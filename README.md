@@ -1,15 +1,15 @@
-# Hi there, I'm Yash! 👋
+<div align="center">
+  <h1>Hi there, I'm Yash! 👋</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=2000&color=2088FF&center=false&vCenter=true&width=550&lines=DevOps+%26+Cloud+Engineer" alt="Typing SVG" />
-</p>
-
-
-I love understanding how software runs under the hood—from writing clean scripts to automating cloud infrastructure and deployment pipelines. As a continuous learner, I am constantly exploring cloud-native architectures, sharpening my problem-solving skills, and building practical DevOps projects.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=2000&color=2088FF&center=true&vCenter=true&width=550&lines=DevOps+%26+Cloud+Engineer" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🚀 About Me
+
+I love understanding how software runs under the hood—from writing clean scripts to automating cloud infrastructure and deployment pipelines. As a continuous learner, I am constantly exploring cloud-native architectures, sharpening my problem-solving skills, and building practical DevOps projects.
+
 * 🎓 **Academics:** Final-year BCA student.
 * 🔭 **Current Focus:** Containerization, orchestration, and automated CI/CD workflows.
 * 🌱 **Always Learning:** Kubernetes internals, Infrastructure as Code (IaC), and Cloud Engineering.
