@@ -53,11 +53,11 @@ I love understanding how software runs under the hood—from writing clean scrip
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/yash-nagar-428b94325?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-nagar-428b94325" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <a href="https://x.com/First_king001" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter/X" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
